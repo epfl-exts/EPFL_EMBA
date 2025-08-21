@@ -94,9 +94,22 @@ def fit_model(df_train, C=1):
     y_train = df_train["spam_label"].values
 
     # Define model
-    model = LogisticRegression(
-        solver="liblinear", class_weight="balanced", random_state=None, C=C
+    model = Pipeline(
+        [
+            ("scaler", StandardScaler()),
+            (
+                "log_reg",
+                LogisticRegression(
+                    solver="liblinear", class_weight="balanced", random_state=24, C=C
+                ),
+            ),
+        ]
     )
+    
+    
+    #model = LogisticRegression(
+    #    solver="liblinear", class_weight="balanced", random_state=None, C=C
+    #)
 
     # Fit model
     model.fit(X_train, y_train)
