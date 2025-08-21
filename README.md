@@ -14,9 +14,9 @@ This repository contains the material for the hands-on session of Day 2 of the E
 **Data:**  A large collection of raw email text containing both normal mail and spam.
 
 **Your tasks:** 
-1. Prepare the raw data for data analysis ([code](notebooks/data_preparation.ipynb))
-2. Analyse the data to identify patterns and potential problems ([code](notebooks/EDA.ipynb))
-3. Use the insights to build a model that classifies the emails into “normal” and “spam”. ([code](notebooks/supervised_learning.ipynb))
+1. Prepare the raw data for data analysis
+2. Analyse the data to identify patterns and potential problems
+3. Use the insights to build a model that classifies the emails into “normal” and “spam”. 
 
 
 ## Hands-On Session
