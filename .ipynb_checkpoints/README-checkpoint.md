@@ -21,22 +21,22 @@ We will explore and compare various features space and machine learning approach
 To get started with the hands-on session you have the following options. Choose one by clicking on the badges below:
 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aiml2days/blob/main/notebooks/colab_practice.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/EPFL_EMBA/blob/main/notebooks/colab_practice.ipynb) 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aiml2days/blob/main/notebooks/data_preparation.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/EPFL_EMBA/blob/main/notebooks/data_preparation.ipynb) 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aiml2days/blob/main/notebooks/EDA.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/EPFL_EMBA/blob/main/notebooks/EDA.ipynb) 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aiml2days/blob/main/notebooks/supervised_learning.ipynb) 
-
-
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/EPFL_EMBA/blob/main/notebooks/supervised_learning.ipynb) 
 
 
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/aiml2days/main)
-[![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/aiml2days/blob/main/static)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/main)
+[![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/EPFL_EMBA/blob/main/static)
 
 - **Colab**: Open the jupyter notebook in **Google Colab** to run the codes interactively on the cloud (recommended for this workshop). Note that you need to have a Google account to run the code in Google Colab.
 
