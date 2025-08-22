@@ -27,6 +27,7 @@ To get started with the hands-on session you have the following 3 options:
 
 You may need a gmail account or similar to register. Below you need to click on the individual icons to load the relevant files to Colab, each in their own browser tab.
 
+#### --->> START HERE 
 Notebook to practice using Colab:
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/EPFL_EMBA/blob/main/notebooks/colab_practice.ipynb) 
 
@@ -50,24 +51,8 @@ Cons:
 * You don't need to set up a Gmail account first. 
 * Notebooks are opened in independent sessions in several browser tabs. They can not interact with each other, e.g. data created in one is not available to the other sessions. 
 
-### 2. Use Binder
 
-To start the project in Binder simply click here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/HEAD)
-or here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/HEAD?urlpath=%2Fdoc%2Ftree%2Fhttps%3A%2F%2Fgithub.com%2Fepfl-exts%2FEPFL_EMBA%2Fblob%2Fmain%2Fnotebooks%2Fdata_preparation.ipynb)
-
-
-Pros: 
-* You don't need to set up a Gmail account first. 
-* All notebooks can be opened in parallel in a single browser interface and they can interact with each other. 
-* Notebooks are visually a bit easier to read and navigate.
-
-Cons: 
-* There is no integrated LLM like Gemini in Colab.
-* It will take a bit longer to set up than Colab. 
-
-### 3. Offline view without interactivity
+### 2. Offline view without interactivity
 
 You can always explore the executed notebooks here: 
 [![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/EPFL_EMBA/blob/main/static)
@@ -78,7 +63,7 @@ Pro:
 Con:
 * There is no interactivity.
 
-### (4. Run session locally)
+### (3. Run session locally)
 
 Some people prefer to run the hands-on session locally on their own machine. There are three steps to follow:
 
