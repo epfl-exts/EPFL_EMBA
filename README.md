@@ -53,7 +53,10 @@ Cons:
 ### 2. Use Binder
 
 To start the project in Binder simply click here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/HEAD)
+or here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/EPFL_EMBA/HEAD?urlpath=%2Fdoc%2Ftree%2Fhttps%3A%2F%2Fgithub.com%2Fepfl-exts%2FEPFL_EMBA%2Fblob%2Fmain%2Fnotebooks%2Fdata_preparation.ipynb)
+
 
 Pros: 
 * You don't need to set up a Gmail account first. 
