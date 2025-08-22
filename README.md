@@ -1,6 +1,3 @@
-<img src="static/Logo-FCUE-2019-cmjn.png" width="180px" align="right">
-
-
 ### EMBA - hands-on session
 
 &nbsp;
